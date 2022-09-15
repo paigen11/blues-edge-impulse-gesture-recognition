@@ -1,5 +1,5 @@
 #include <Adafruit_LIS3DH.h>
-#include <paigen11-project-1_inferencing.h>
+#include <ei-gesture-recognition_inferencing.h>
 
 static bool debug_nn = false;
 
